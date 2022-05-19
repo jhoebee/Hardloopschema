@@ -1,8 +1,3 @@
-pip install .
-jupyter nbextension     enable --py --sys-prefix appmode
-jupyter serverextension enable --py --sys-prefix appmode
-
-
 channels:
   - conda-forge
 dependencies:
