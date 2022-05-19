@@ -1,5 +1,11 @@
 channels:
   - conda-forge
 dependencies:
-  - ipyvolume
+  - datetime
+  - pandas
+  - ipywidgets
   - appmode
+  - pandas
+  - IPython.display
+  - Javascript
+  - Display
