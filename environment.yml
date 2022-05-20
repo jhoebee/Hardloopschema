@@ -6,7 +6,6 @@ dependencies:
   - ipywidgets
   - appmode
   - pandas
-  - IPython.display
   - anaconda
 
 
