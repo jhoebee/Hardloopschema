@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - python 3.9.7
   - datetime
   - pandas
   - ipywidgets
@@ -9,3 +10,5 @@ dependencies:
   - IPython.display
   - Javascript
   - Display
+
+
