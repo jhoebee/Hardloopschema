@@ -7,5 +7,6 @@ dependencies:
   - appmode
   - pandas
   - IPython.display
+  - anaconda
 
 
