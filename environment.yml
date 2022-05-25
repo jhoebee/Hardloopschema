@@ -13,11 +13,11 @@ dependencies:
 #  - anaconda-client=1.9.0=py39haa95532_0
 #  - anaconda-navigator=2.1.4=py39haa95532_0
 #  - anaconda-project=0.10.1=pyhd3eb1b0_0
-  - anyio=2.2.0=py39haa95532_2
+ # - anyio=2.2.0=py39haa95532_2
   - appdirs=1.4.4=pyhd3eb1b0_0
   - appmode=0.8.0=py39hcbf5309_3
   - argh=0.26.2=py39haa95532_0
-  - argon2-cffi=20.1.0=py39h2bbff1b_1
+ # - argon2-cffi=20.1.0=py39h2bbff1b_1
   - arrow=0.13.1=py39haa95532_0
   - asn1crypto=1.4.0=py_0
   - astroid=2.6.6=py39haa95532_0
@@ -46,9 +46,9 @@ dependencies:
   - boto=2.49.0=py39haa95532_0
   - bottleneck=1.3.2=py39h7cc1a96_1
   - brotli=1.0.9=ha925a31_2
-  - brotlipy=0.7.0=py39h2bbff1b_1003
+  #- brotlipy=0.7.0=py39h2bbff1b_1003
   - bzip2=1.0.8=he774522_0
-  - ca-certificates=2021.10.26=haa95532_2
+  #- ca-certificates=2021.10.26=haa95532_2
   - cached-property=1.5.2=py_0
   #- certifi=2021.10.8=py39haa95532_0
   #- cffi=1.14.6=py39h2bbff1b_0
@@ -372,14 +372,14 @@ dependencies:
   - xlwt=1.3.0=py39haa95532_0
   - xmltodict=0.12.0=pyhd3eb1b0_0
   #- xz=5.2.5=h62dcd97_0
-  - yaml=0.2.5=he774522_0
+  #- yaml=0.2.5=he774522_0
   - yapf=0.31.0=pyhd3eb1b0_0
-  - zfp=0.5.5=hd77b12b_6
+  #- zfp=0.5.5=hd77b12b_6
   - zict=2.0.0=pyhd3eb1b0_0
   - zipp=3.6.0=pyhd3eb1b0_0
   #- zlib=1.2.11=h62dcd97_4
-  - zope=1.0=py39haa95532_1
-  - zope.event=4.5.0=py39haa95532_0
-  - zope.interface=5.4.0=py39h2bbff1b_0
-  - zstd=1.4.9=h19a0ad4_0
+  #- zope=1.0=py39haa95532_1
+  #- zope.event=4.5.0=py39haa95532_0
+  #- zope.interface=5.4.0=py39h2bbff1b_0
+  #- zstd=1.4.9=h19a0ad4_0
 prefix: C:\Anaconda
