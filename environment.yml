@@ -6,5 +6,6 @@ dependencies:
   - appmode=0.8.0
   - pandas=1.3.4
   - python=3.9.7
+  - IPython.display
   - widgetsnbextension
 # prefix: C:\Anaconda
