@@ -8,5 +8,4 @@ dependencies:
   - python=3.9.7
   - widgetsnbextension
   - dataframe_image
-  - chromedriver
 # prefix: C:\Anaconda
