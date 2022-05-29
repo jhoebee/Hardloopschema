@@ -10,7 +10,6 @@ dependencies:
   - nbconvert
   - pillow
   - matplotlib
-  - BeautifulSoup
   - aiohttp
   - dataframe_image
 # prefix: C:\Anaconda
