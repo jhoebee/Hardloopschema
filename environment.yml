@@ -7,5 +7,7 @@ dependencies:
   - pandas=1.3.4
   - python=3.9.7
   - widgetsnbextension
+  - nbconvert
+  - pillow
   - dataframe_image
 # prefix: C:\Anaconda
