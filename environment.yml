@@ -12,5 +12,4 @@ dependencies:
   - matplotlib
   - aiohttp
   - dataframe_image
-  - HTML
 # prefix: C:\Anaconda
