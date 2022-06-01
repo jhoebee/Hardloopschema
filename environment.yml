@@ -11,5 +11,4 @@ dependencies:
   - pillow
   - matplotlib
   - aiohttp
-  - dataframe_image
 # prefix: C:\Anaconda
